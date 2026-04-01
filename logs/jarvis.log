@@ -1,0 +1,490 @@
+2026-03-27 10:07:54 - System Started
+2026-03-27 10:08:02 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\garvi\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-27 10:08:02 - Using writeable comtypes cache directory: 'C:\Users\garvi\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-27 10:08:08 - User Input: my name is Garvit
+2026-03-27 10:08:08 - AFC is enabled with max remote calls: 10.
+2026-03-27 10:08:08 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-03-27 10:08:08 - AI Response Sent
+2026-03-27 10:08:22 - User Input: open Chrome
+2026-03-27 10:08:23 - System Action: Opening Google Chrome.
+2026-03-27 10:29:50,037 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\garvi\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-27 10:29:50,038 - Using writeable comtypes cache directory: 'C:\Users\garvi\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-27 10:29:55,821 - AFC is enabled with max remote calls: 10.
+2026-03-27 10:29:56,550 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-27 10:29:57,262 - response: https://www.bing.com/search?q=my+name+is+Garvit 200
+2026-03-27 10:44:27,127 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\garvi\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-27 10:44:27,128 - Using writeable comtypes cache directory: 'C:\Users\garvi\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-27 10:44:33,445 - AFC is enabled with max remote calls: 10.
+2026-03-27 10:44:34,062 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-03-27 10:58:42,266 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\garvi\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-27 10:58:42,267 - Using writeable comtypes cache directory: 'C:\Users\garvi\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-27 10:58:48,829 - AFC is enabled with max remote calls: 10.
+2026-03-27 10:58:50,705 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:00:05,411 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\garvi\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-27 11:00:05,412 - Using writeable comtypes cache directory: 'C:\Users\garvi\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-27 11:00:10,593 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:00:13,508 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:00:31,894 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:00:33,657 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:01:01,995 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:01:04,455 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:01:35,586 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:01:37,282 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:02:26,527 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:02:44,652 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-03-27 11:03:17,340 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:03:20,596 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:15:58,218 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:15:58,531 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-27 11:15:59,533 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:15:59,679 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-27 11:16:26,022 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:16:26,228 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-27 11:16:27,230 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:16:27,378 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-27 11:17:06,898 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:17:07,125 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-27 11:17:08,128 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:17:08,271 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-03-27 11:20:51,735 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:21:06,482 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:32:26,224 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:32:27,987 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:33:30,788 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:33:32,736 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:37:19,704 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:37:21,753 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 11:41:01,088 - AFC is enabled with max remote calls: 10.
+2026-03-27 11:41:03,513 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 12:38:08,755 - AFC is enabled with max remote calls: 10.
+2026-03-27 12:38:12,398 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 12:39:40,078 - AFC is enabled with max remote calls: 10.
+2026-03-27 12:39:45,317 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-27 12:48:09 - Jarvis System Online.
+2026-03-27 12:48:25 - Wake word detected.
+2026-03-27 12:48:36 - User Input: open whatsapp
+2026-03-27 12:48:50 - System Action: Opening whatsapp for you, Sir.
+2026-03-27 12:49:01 - User Input: open whatsapp.exe
+2026-03-27 12:49:09 - System Action: Opening whatsapp.exe for you, Sir.
+2026-03-27 12:49:51 - User Input: open wattpad
+2026-03-27 12:49:54 - System Action: Opening wattpad for you, Sir.
+2026-03-27 12:50:05 - User Input: open ms word
+2026-03-27 12:50:05 - System Action: Opening winword for you, Sir.
+2026-03-27 12:50:15 - User Input: close the ms word
+2026-03-27 12:50:15 - System Action: Closing all instances of ms word.
+2026-03-27 12:50:42 - Wake word detected.
+2026-03-27 12:50:53 - User Input: close winword
+2026-03-27 12:50:53 - System Action: Terminated winword successfully.
+2026-03-27 12:51:20 - Wake word detected.
+2026-03-27 12:51:31 - User Input: open when whatsapp
+2026-03-27 12:51:37 - System Action: Opening when whatsapp for you, Sir.
+2026-03-27 12:51:45 - User Input: open win whatsapp
+2026-03-27 12:51:49 - System Action: Opening win whatsapp for you, Sir.
+2026-03-27 12:52:19 - Wake word detected.
+2026-03-27 12:52:30 - User Input: open calculator
+2026-03-27 12:52:38 - System Action: Opening calculator for you, Sir.
+2026-03-27 12:52:46 - User Input: close yourself
+2026-03-27 12:52:51 - System shutdown requested.
+2026-03-27 13:01:24 - Jarvis System Online.
+2026-03-27 13:01:30 - Wake word detected.
+2026-03-27 13:01:39 - User Input: open whatsapp
+2026-03-27 13:01:40 - System Action: I couldn't find whatsapp directly. Did you mean wmiadap, charmap, wusa? Please say the exact name to open it.
+2026-03-27 13:08:12 - Jarvis System Online.
+2026-03-27 13:08:18 - Wake word detected.
+2026-03-27 13:08:28 - User Input: open whatsapp
+2026-03-27 13:08:53 - User Input: open shadow app
+2026-03-27 13:09:08 - User Input: open char map
+2026-03-27 13:09:27 - User Input: open cloud fair rap
+2026-03-27 13:09:42 - User Input: cloud player
+2026-03-27 13:09:42 - AFC is enabled with max remote calls: 10.
+2026-03-27 13:09:45 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 22:51:25 - Jarvis System Online.
+2026-03-28 22:51:36 - Wake word detected.
+2026-03-28 22:51:45 - User Input: please open the chrome
+2026-03-28 22:51:59 - User Input: yes google chrome
+2026-03-28 22:51:59 - AFC is enabled with max remote calls: 10.
+2026-03-28 22:52:01 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:10:20 - Jarvis System Online.
+2026-03-28 23:10:26 - Wake word detected.
+2026-03-28 23:10:34 - User Input: open chrome
+2026-03-28 23:10:40 - User Input: vikram
+2026-03-28 23:10:40 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:10:42 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:10:51 - User Input: please close the chrome
+2026-03-28 23:11:07 - User Input: open chrome
+2026-03-28 23:11:29 - Auto-standby triggered due to silence.
+2026-03-28 23:11:38 - Wake word detected.
+2026-03-28 23:11:47 - User Input: open notepad
+2026-03-28 23:11:54 - User Input: close notepad
+2026-03-28 23:12:06 - User Input: now open youtube
+2026-03-28 23:12:20 - User Input: ok good bye
+2026-03-28 23:12:20 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:12:21 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:12:33 - User Input: close yourself
+2026-03-28 23:28:13 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:28:15 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:36:38 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:36:40 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:51:56 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:51:58 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:53:31 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:53:33 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:53:52 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:53:54 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:54:34 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:54:35 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:54:58 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:55:00 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:56:41 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:56:42 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:56:56 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:56:58 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-28 23:57:14 - AFC is enabled with max remote calls: 10.
+2026-03-28 23:57:16 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:03:42 - System Started.
+2026-03-29 00:03:51 - Wake Word Detected.
+2026-03-29 00:04:03 - User Input: play desi kalakaar song on youtube
+2026-03-29 00:04:04 - Action Executed: Playing desi kalakaar song on YouTube, Sir.
+2026-03-29 00:04:23 - User Input: down the volume
+2026-03-29 00:04:23 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:04:25 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:04:25 - AI Response Sent.
+2026-03-29 00:04:43 - User Input: make it down to the 20%
+2026-03-29 00:04:43 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:04:44 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:04:44 - AI Response Sent.
+2026-03-29 00:05:00 - User Input: make the forward video
+2026-03-29 00:05:00 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:05:02 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:05:02 - AI Response Sent.
+2026-03-29 00:05:17 - User Input: all the video
+2026-03-29 00:05:17 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:05:19 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:05:19 - AI Response Sent.
+2026-03-29 00:05:31 - User Input: pause the youtube video
+2026-03-29 00:05:31 - Action Executed: Toggled playback.
+2026-03-29 00:05:47 - User Input: youtube video volume
+2026-03-29 00:05:47 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:05:49 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:05:49 - AI Response Sent.
+2026-03-29 00:06:11 - User Input: make this full volume of the video on youtube
+2026-03-29 00:06:11 - Action Executed: System volume set to 100 percent, Sir.
+2026-03-29 00:06:26 - User Input: make the system volume to 50
+2026-03-29 00:06:26 - Action Executed: System volume set to 50 percent, Sir.
+2026-03-29 00:07:46 - System Started.
+2026-03-29 00:07:51 - Wake Word Detected.
+2026-03-29 00:08:02 - User Input: blazer video on pictures on youtube
+2026-03-29 00:08:02 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:08:04 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:08:04 - AI Response Sent.
+2026-03-29 00:08:20 - User Input: desi kalakar video on youtube
+2026-03-29 00:08:20 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:08:22 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:08:22 - AI Response Sent.
+2026-03-29 00:08:44 - User Input: youtube
+2026-03-29 00:08:44 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:08:46 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:08:46 - AI Response Sent.
+2026-03-29 00:08:59 - User Input: open youtube and play song desi kala
+2026-03-29 00:09:00 - Action Executed: Playing open youtube and  song desi kala on YouTube, Sir.
+2026-03-29 00:09:17 - User Input: video
+2026-03-29 00:09:17 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:09:19 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:09:19 - AI Response Sent.
+2026-03-29 00:09:29 - User Input: on youtube
+2026-03-29 00:09:29 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:09:31 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:09:31 - AI Response Sent.
+2026-03-29 00:09:42 - User Input: video
+2026-03-29 00:09:42 - AFC is enabled with max remote calls: 10.
+2026-03-29 00:09:44 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 00:09:44 - AI Response Sent.
+2026-03-29 00:09:57 - User Input: which is playing on youtube
+2026-03-29 00:10:01 - Action Executed: Playing which is ing on YouTube, Sir.
+2026-03-29 00:10:17 - User Input: close yourself
+2026-03-29 00:10:21 - Manual Shutdown.
+2026-03-29 07:16:51 - System Started.
+2026-03-29 07:17:10 - Wake Word Detected.
+2026-03-29 07:17:34 - Auto-standby triggered due to silence.
+2026-03-29 07:17:38 - Wake Word Detected.
+2026-03-29 07:17:47 - User Input: open chrome
+2026-03-29 07:17:47 - Action Executed: Opening chrome.
+2026-03-29 07:18:00 - User Input: open youtube and play a song
+2026-03-29 07:18:01 - Action Executed: Playing open youtube and  a song on YouTube, Sir.
+2026-03-29 07:18:27 - Auto-standby triggered due to silence.
+2026-03-29 07:18:43 - Wake Word Detected.
+2026-03-29 07:18:54 - User Input: open my whatsapp
+2026-03-29 07:18:54 - Action Executed: Opening WhatsApp Web.
+2026-03-29 07:19:08 - User Input: now open notepad
+2026-03-29 07:19:43 - User Input: open wordpad
+2026-03-29 07:20:14 - User Input: open winword
+2026-03-29 07:20:14 - Action Executed: Opening winword.
+2026-03-29 07:21:15 - System Started.
+2026-03-29 07:21:22 - Wake Word Detected.
+2026-03-29 07:21:34 - User Input: open youtube and play a song
+2026-03-29 07:21:35 - Action Executed: Playing open youtube and  a song on YouTube, Sir.
+2026-03-29 07:21:56 - User Input: mute the video
+2026-03-29 07:21:56 - Action Executed: Video muted.
+2026-03-29 07:22:02 - User Input: mutate
+2026-03-29 07:22:02 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:22:03 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:22:03 - AI Response Sent.
+2026-03-29 07:22:21 - User Input: unmute the video on youtube
+2026-03-29 07:22:22 - Action Executed: Video muted.
+2026-03-29 07:22:32 - User Input: 60%
+2026-03-29 07:22:32 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:22:33 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:22:33 - AI Response Sent.
+2026-03-29 07:22:47 - User Input: kuldeep
+2026-03-29 07:22:47 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:22:49 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:22:49 - AI Response Sent.
+2026-03-29 07:23:00 - User Input: make the volume full on youtube
+2026-03-29 07:23:00 - Action Executed: System volume set to 100 percent, Sir.
+2026-03-29 07:23:22 - Auto-standby triggered due to silence.
+2026-03-29 07:23:55 - Wake Word Detected.
+2026-03-29 07:24:07 - User Input: close the window that open the youtube
+2026-03-29 07:24:07 - Action Executed: Opening YouTube Home.
+2026-03-29 07:24:13 - User Input: close the chrome
+2026-03-29 07:24:14 - Action Executed: Closed chrome successfully.
+2026-03-29 07:24:26 - User Input: now set the system volume to 60%
+2026-03-29 07:24:26 - Action Executed: System volume set to 0 percent, Sir.
+2026-03-29 07:24:51 - Auto-standby triggered due to silence.
+2026-03-29 07:28:29 - System Started.
+2026-03-29 07:28:37 - Wake Word Detected.
+2026-03-29 07:28:47 - User Input: set the volume at 60%
+2026-03-29 07:28:47 - Action Executed: System volume set to 0 percent, Sir.
+2026-03-29 07:29:07 - User Input: low the brightness of the system
+2026-03-29 07:29:07 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:29:07 - Action Executed: Brightness adjusted to 20 percent.
+2026-03-29 07:29:26 - User Input: brightness brightness of the system
+2026-03-29 07:29:26 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:29:28 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:29:28 - AI Response Sent.
+2026-03-29 07:29:53 - User Input: full brightness
+2026-03-29 07:29:54 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:29:54 - Action Executed: Brightness adjusted to 100 percent.
+2026-03-29 07:30:02 - User Input: set brightness to 20%
+2026-03-29 07:30:02 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:30:07 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:30:07 - AI Response Sent.
+2026-03-29 07:30:20 - User Input: low the brightness
+2026-03-29 07:30:20 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:30:20 - Action Executed: Brightness adjusted to 20 percent.
+2026-03-29 07:30:35 - User Input: make the brightness to 60%
+2026-03-29 07:30:35 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:30:37 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:30:37 - AI Response Sent.
+2026-03-29 07:31:06 - User Input: make the volume up
+2026-03-29 07:31:06 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:31:09 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:31:09 - AI Response Sent.
+2026-03-29 07:31:19 - User Input: make the volume down
+2026-03-29 07:31:19 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:31:21 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:31:21 - AI Response Sent.
+2026-03-29 07:31:40 - User Input: close
+2026-03-29 07:31:41 - Action Executed: Closed  successfully.
+2026-03-29 07:31:56 - User Input: close every tab
+2026-03-29 07:31:56 - Action Executed: Closed every tab successfully.
+2026-03-29 07:32:08 - User Input: close every windows
+2026-03-29 07:32:08 - Action Executed: Closed every windows successfully.
+2026-03-29 07:32:29 - User Input: close the chrome
+2026-03-29 07:32:29 - Action Executed: Closed chrome successfully.
+2026-03-29 07:32:37 - User Input: close the vs code
+2026-03-29 07:32:37 - Action Executed: Closed vs code successfully.
+2026-03-29 07:32:58 - User Input: close yourself
+2026-03-29 07:33:03 - Manual Shutdown.
+2026-03-29 07:34:38 - System Started.
+2026-03-29 07:34:57 - Wake Word Detected.
+2026-03-29 07:35:09 - User Input: mid brightest
+2026-03-29 07:35:09 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:35:11 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:35:11 - AI Response Sent.
+2026-03-29 07:35:24 - User Input: make the system brightness to mid
+2026-03-29 07:35:24 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:35:24 - Action Executed: Brightness adjusted to 50 percent.
+2026-03-29 07:35:33 - User Input: make the system brightness to high
+2026-03-29 07:35:34 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:35:34 - Action Executed: Brightness adjusted to 80 percent.
+2026-03-29 07:35:42 - User Input: of the system low
+2026-03-29 07:35:42 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:35:44 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:35:44 - AI Response Sent.
+2026-03-29 07:36:01 - User Input: make the system brightness low
+2026-03-29 07:36:01 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:36:01 - Action Executed: Brightness adjusted to 20 percent.
+2026-03-29 07:36:08 - User Input: system brightness full
+2026-03-29 07:36:08 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:36:09 - Action Executed: Brightness adjusted to 100 percent.
+2026-03-29 07:36:17 - User Input: make the volume level mid
+2026-03-29 07:36:17 - Action Executed: System volume set to 50 percent, Sir.
+2026-03-29 07:36:39 - User Input: make the headphone volume to mid
+2026-03-29 07:36:39 - Action Executed: System volume set to 50 percent, Sir.
+2026-03-29 07:36:48 - User Input: make this sound level
+2026-03-29 07:36:48 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:36:50 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:36:50 - AI Response Sent.
+2026-03-29 07:37:06 - User Input: mute the sound
+2026-03-29 07:37:06 - Action Executed: System volume set to 0 percent, Sir.
+2026-03-29 07:37:48 - System Started.
+2026-03-29 07:41:03 - System Started.
+2026-03-29 07:41:49 - System Started.
+2026-03-29 07:41:54 - Wake Word Detected.
+2026-03-29 07:42:04 - User Input: open camera
+2026-03-29 07:42:29 - User Input: i said yes to open the camera in google chrome
+2026-03-29 07:43:07 - Auto-standby triggered due to silence.
+2026-03-29 07:49:08 - Wake Word Detected.
+2026-03-29 07:49:21 - User Input: close yourself
+2026-03-29 07:49:26 - Manual Shutdown.
+2026-03-29 07:49:59 - System Started.
+2026-03-29 07:50:04 - Wake Word Detected.
+2026-03-29 07:50:15 - User Input: 30 system volume to 50%
+2026-03-29 07:50:16 - Action Executed: System volume set to 30 percent, Sir.
+2026-03-29 07:50:34 - User Input: low the volume
+2026-03-29 07:50:35 - Action Executed: System volume set to 20 percent, Sir.
+2026-03-29 07:50:46 - User Input: low brightness
+2026-03-29 07:50:46 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:50:47 - Action Executed: Brightness adjusted to 20 percent.
+2026-03-29 07:50:58 - User Input: made the brightness
+2026-03-29 07:50:58 - AFC is enabled with max remote calls: 10.
+2026-03-29 07:51:00 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 07:51:00 - AI Response Sent.
+2026-03-29 07:51:15 - User Input: full brightness
+2026-03-29 07:51:16 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 07:51:16 - Action Executed: Brightness adjusted to 100 percent.
+2026-03-29 08:03:13 - System Started.
+2026-03-29 08:03:19 - Wake Word Detected.
+2026-03-29 08:03:36 - User Input: open camera
+2026-03-29 08:04:05 - User Input: open whatsapp
+2026-03-29 08:04:06 - Action Executed: Opening WhatsApp Web.
+2026-03-29 08:04:34 - User Input: open camera
+2026-03-29 08:05:15 - User Input: 20%
+2026-03-29 08:05:15 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:05:17 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:05:17 - AI Response Sent.
+2026-03-29 08:05:42 - User Input: write the level of volume to mid
+2026-03-29 08:05:43 - Action Executed: System volume set to 50 percent, Sir.
+2026-03-29 08:06:06 - User Input: write the brightness to 50%
+2026-03-29 08:06:06 - Action Executed: Brightness set to 50 percent.
+2026-03-29 08:06:18 - User Input: set the brightness to 63%
+2026-03-29 08:06:18 - Action Executed: Brightness set to 50 percent.
+2026-03-29 08:06:30 - User Input: set brightness to 63%
+2026-03-29 08:06:31 - Action Executed: Brightness set to 50 percent.
+2026-03-29 08:06:42 - User Input: set the brightness to 80%
+2026-03-29 08:06:42 - Action Executed: Brightness set to 50 percent.
+2026-03-29 08:06:50 - User Input: brightness high
+2026-03-29 08:06:51 - Action Executed: Brightness set to 50 percent.
+2026-03-29 08:06:59 - User Input: high the brightness
+2026-03-29 08:07:00 - Action Executed: Brightness set to 50 percent.
+2026-03-29 08:07:08 - User Input: are bhaiya kuldeep brightness
+2026-03-29 08:07:09 - Action Executed: Brightness set to 50 percent.
+2026-03-29 08:07:20 - User Input: open chrome
+2026-03-29 08:07:20 - Action Executed: Opening chrome now.
+2026-03-29 08:07:26 - User Input: that chrome
+2026-03-29 08:07:26 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:07:28 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:07:28 - AI Response Sent.
+2026-03-29 08:07:46 - User Input: close the chrome
+2026-03-29 08:07:46 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:07:47 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:07:47 - AI Response Sent.
+2026-03-29 08:08:09 - User Input: close the google chrome
+2026-03-29 08:08:09 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:08:11 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:08:11 - AI Response Sent.
+2026-03-29 08:08:22 - User Input: open notepad
+2026-03-29 08:08:22 - Action Executed: Opening notepad now.
+2026-03-29 08:08:37 - User Input: close it
+2026-03-29 08:08:37 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:08:39 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:08:39 - AI Response Sent.
+2026-03-29 08:08:52 - User Input: close the notepad
+2026-03-29 08:08:52 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:08:53 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:08:53 - AI Response Sent.
+2026-03-29 08:09:05 - User Input: open notepad
+2026-03-29 08:09:33 - Action Executed: Opening notepad now.
+2026-03-29 08:09:44 - User Input: open notepad
+2026-03-29 08:09:44 - Action Executed: Opening notepad now.
+2026-03-29 08:09:50 - User Input: notepad
+2026-03-29 08:09:50 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:09:52 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:09:52 - AI Response Sent.
+2026-03-29 08:10:14 - User Input: please type on the notepad
+2026-03-29 08:10:14 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:10:16 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:10:16 - AI Response Sent.
+2026-03-29 08:10:26 - User Input: my name is garvit
+2026-03-29 08:10:26 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:10:28 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:10:28 - AI Response Sent.
+2026-03-29 08:10:38 - User Input: type on the notepad
+2026-03-29 08:10:38 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:10:40 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:10:40 - AI Response Sent.
+2026-03-29 08:10:53 - User Input: hello hello
+2026-03-29 08:10:53 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:10:55 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:10:55 - AI Response Sent.
+2026-03-29 08:11:05 - User Input: type on the notepad
+2026-03-29 08:11:05 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:11:07 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:11:07 - AI Response Sent.
+2026-03-29 08:11:22 - User Input: type a musician
+2026-03-29 08:11:22 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:11:23 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:11:23 - AI Response Sent.
+2026-03-29 08:11:36 - User Input: close the notepad
+2026-03-29 08:11:36 - AFC is enabled with max remote calls: 10.
+2026-03-29 08:11:38 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 08:11:38 - AI Response Sent.
+2026-03-29 08:12:30 - Auto-standby triggered due to silence.
+2026-03-29 09:14:13 - System Started.
+2026-03-29 09:14:18 - Wake Word Detected.
+2026-03-29 09:14:28 - User Input: low the brightness
+2026-03-29 09:14:28 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 09:14:28 - Action Executed: Brightness adjusted to 20 percent.
+2026-03-29 09:14:34 - User Input: brightness
+2026-03-29 09:14:34 - AFC is enabled with max remote calls: 10.
+2026-03-29 09:14:36 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 09:14:36 - AI Response Sent.
+2026-03-29 09:14:50 - User Input: set brightness to mid
+2026-03-29 09:14:50 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 09:14:50 - Action Executed: Brightness adjusted to 50 percent.
+2026-03-29 09:14:59 - User Input: make the brightness full
+2026-03-29 09:14:59 - exception parsing edid str for DISPLAY\LEN8AC3\4&1bb6fe30&0&UID8388688_0 - EDIDParseError: parsed EDID returned invalid display name
+2026-03-29 09:14:59 - Action Executed: Brightness adjusted to 100 percent.
+2026-03-29 09:15:12 - User Input: now open youtube and play a song one love
+2026-03-29 09:15:14 - Action Executed: Playing now open youtube and  a song one love on YouTube, Sir.
+2026-03-29 09:15:39 - User Input: hello jarvis
+2026-03-29 09:15:39 - AFC is enabled with max remote calls: 10.
+2026-03-29 09:15:41 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 09:15:41 - AI Response Sent.
+2026-03-29 09:15:48 - User Input: on youtube
+2026-03-29 09:15:48 - AFC is enabled with max remote calls: 10.
+2026-03-29 09:15:50 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 09:15:50 - AI Response Sent.
+2026-03-29 09:16:13 - Auto-standby triggered due to silence.
+2026-03-29 09:16:37 - Wake Word Detected.
+2026-03-29 09:16:46 - User Input: sound on youtube
+2026-03-29 09:16:46 - AFC is enabled with max remote calls: 10.
+2026-03-29 09:16:48 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 09:16:48 - AI Response Sent.
+2026-03-29 09:17:10 - User Input: youtube
+2026-03-29 09:17:10 - AFC is enabled with max remote calls: 10.
+2026-03-29 09:17:12 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 09:17:12 - AI Response Sent.
+2026-03-29 09:17:26 - User Input: play a song on youtube one
+2026-03-29 09:17:27 - Action Executed: Playing a song  one on YouTube, Sir.
+2026-03-29 09:17:35 - User Input: pause the video
+2026-03-29 09:17:35 - Action Executed: Toggled playback.
+2026-03-29 09:17:51 - User Input: pause the video
+2026-03-29 09:17:51 - Action Executed: Toggled playback.
+2026-03-29 09:17:58 - User Input: play the video
+2026-03-29 09:17:59 - Action Executed: Playing the video on YouTube, Sir.
+2026-03-29 09:18:18 - User Input: volume down
+2026-03-29 09:18:18 - AFC is enabled with max remote calls: 10.
+2026-03-29 09:18:21 - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent "HTTP/1.1 200 OK"
+2026-03-29 09:18:21 - AI Response Sent.
+2026-03-29 09:18:56 - Auto-standby triggered due to silence.
