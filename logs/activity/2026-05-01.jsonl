@@ -1,0 +1,40 @@
+{"timestamp": "2026-05-01 21:13:47", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "pending_confirmation", "details": {"risk": "high", "token": "213cc46dea"}}
+{"timestamp": "2026-05-01 21:14:41", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "started", "details": {"args": {"platform": "WhatsApp", "confirmation_token": "213cc46dea", "receiver": "rakhi soojaa", "message_text": "soojaa"}}}
+{"timestamp": "2026-05-01 21:14:50", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "completed", "details": {"result_preview": "Message sent to rakhi soojaa via WhatsApp."}}
+{"timestamp": "2026-05-01 21:15:51", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "pending_confirmation", "details": {"risk": "high", "token": "2fef762b20"}}
+{"timestamp": "2026-05-01 21:16:17", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "started", "details": {"args": {"message_text": "laadlee", "receiver": "sisodiya", "confirmation_token": "2fef762b20", "platform": "WhatsApp"}}}
+{"timestamp": "2026-05-01 21:16:26", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "completed", "details": {"result_preview": "Message sent to sisodiya via WhatsApp."}}
+{"timestamp": "2026-05-01 21:17:01", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "pending_confirmation", "details": {"risk": "high", "token": "cdbaa840fa"}}
+{"timestamp": "2026-05-01 21:17:32", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "started", "details": {"args": {"platform": "WhatsApp", "confirmation_token": "cdbaa840fa", "message_text": "laadlee", "receiver": "sisodiya"}}}
+{"timestamp": "2026-05-01 21:17:41", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "completed", "details": {"result_preview": "Message sent to sisodiya via WhatsApp."}}
+{"timestamp": "2026-05-01 21:18:48", "actor": "garvit", "action": "agent_task", "tool": "agent_task", "status": "started", "details": {"args": {"goal": "send an email with the subject \"hello bhai\" and body \"hello bhai\" to goluchaudhary659@gmail.com", "priority": "normal"}}}
+{"timestamp": "2026-05-01 21:18:48", "actor": "garvit", "action": "agent_task", "tool": "agent_task", "status": "completed", "details": {"result_preview": "Task started (ID: 92faf443)."}}
+{"timestamp": "2026-05-01 21:21:05", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "pending_confirmation", "details": {"risk": "high", "token": "846aa5c5c3"}}
+{"timestamp": "2026-05-01 21:21:25", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "started", "details": {"args": {"receiver": "sisodiya", "message_text": "laadlee", "platform": "WhatsApp", "confirmation_token": "846aa5c5c3"}}}
+{"timestamp": "2026-05-01 21:21:34", "actor": "garvit", "action": "send_message", "tool": "send_message", "status": "completed", "details": {"result_preview": "Message sent to sisodiya via WhatsApp."}}
+{"timestamp": "2026-05-01 21:22:04", "actor": "garvit", "action": "window_management", "tool": "computer_settings", "status": "started", "details": {"args": {"action": "window_management", "description": "minimize all tabs"}}}
+{"timestamp": "2026-05-01 21:22:04", "actor": "garvit", "action": "window_management", "tool": "computer_settings", "status": "completed", "details": {"result_preview": "Unknown action: 'window_management'."}}
+{"timestamp": "2026-05-01 21:22:07", "actor": "garvit", "action": "hotkey", "tool": "computer_control", "status": "started", "details": {"args": {"action": "hotkey", "keys": "win+d"}}}
+{"timestamp": "2026-05-01 21:22:07", "actor": "garvit", "action": "hotkey", "tool": "computer_control", "status": "completed", "details": {"result_preview": "Hotkey: win+d"}}
+{"timestamp": "2026-05-01 21:22:36", "actor": "garvit", "action": "brightness", "tool": "computer_settings", "status": "started", "details": {"args": {"action": "brightness", "value": "0"}}}
+{"timestamp": "2026-05-01 21:22:36", "actor": "garvit", "action": "brightness", "tool": "computer_settings", "status": "completed", "details": {"result_preview": "Unknown action: 'brightness'."}}
+{"timestamp": "2026-05-01 21:23:16", "actor": "garvit", "action": "play", "tool": "youtube_video", "status": "started", "details": {"args": {"action": "play", "query": "one love song"}}}
+{"timestamp": "2026-05-01 21:23:18", "actor": "garvit", "action": "play", "tool": "youtube_video", "status": "completed", "details": {"result_preview": "Playing: one love song"}}
+{"timestamp": "2026-05-01 21:25:48", "actor": "garvit", "action": "agent_task", "tool": "agent_task", "status": "started", "details": {"args": {"priority": "normal", "goal": "Send the file 'prathvee.pdf' to the contact 'bada hati' via WhatsApp."}}}
+{"timestamp": "2026-05-01 21:25:48", "actor": "garvit", "action": "agent_task", "tool": "agent_task", "status": "completed", "details": {"result_preview": "Task started (ID: 4d1d06a2)."}}
+{"timestamp": "2026-05-01 21:33:28", "actor": "garvit", "action": "hotkey", "tool": "computer_control", "status": "started", "details": {"args": {"action": "hotkey", "keys": "win+up"}}}
+{"timestamp": "2026-05-01 21:33:28", "actor": "garvit", "action": "hotkey", "tool": "computer_control", "status": "completed", "details": {"result_preview": "Hotkey: win+up"}}
+{"timestamp": "2026-05-01 21:36:29", "actor": "garvit", "action": "shutdown_omini", "tool": "shutdown_omini", "status": "started", "details": {"args": {}}}
+{"timestamp": "2026-05-01 21:36:29", "actor": "garvit", "action": "shutdown_omini", "tool": "shutdown_omini", "status": "completed", "details": {"result_preview": "Done."}}
+{"timestamp": "2026-05-01 22:41:50", "actor": "garvit", "action": "web_search", "tool": "web_search", "status": "started", "details": {"args": {"query": "best action movies"}}}
+{"timestamp": "2026-05-01 22:42:10", "actor": "garvit", "action": "web_search", "tool": "web_search", "status": "completed", "details": {"result_preview": "The \"best\" action movies can be subjective, but several films consistently appear on \"best of\" lists for their thrilling sequences, memorable characters, and enduring impact on the genre.\n\nHere are some of the most highl"}}
+{"timestamp": "2026-05-01 22:43:28", "actor": "garvit", "action": "shutdown_friday", "tool": "shutdown_FriDay", "status": "started", "details": {"args": {}}}
+{"timestamp": "2026-05-01 22:43:28", "actor": "garvit", "action": "shutdown_friday", "tool": "shutdown_FriDay", "status": "completed", "details": {"result_preview": "Done."}}
+{"timestamp": "2026-05-01 22:59:41", "actor": "garvit", "action": "play", "tool": "youtube_video", "status": "started", "details": {"args": {"action": "play", "query": "fortuner"}}}
+{"timestamp": "2026-05-01 22:59:42", "actor": "garvit", "action": "play", "tool": "youtube_video", "status": "completed", "details": {"result_preview": "Playing: fortuner"}}
+{"timestamp": "2026-05-01 23:01:05", "actor": "garvit", "action": "open_app", "tool": "open_app", "status": "started", "details": {"args": {"app_name": "Spotify"}}}
+{"timestamp": "2026-05-01 23:01:07", "actor": "garvit", "action": "open_app", "tool": "open_app", "status": "completed", "details": {"result_preview": "Opened Spotify."}}
+{"timestamp": "2026-05-01 23:02:03", "actor": "garvit", "action": "play", "tool": "youtube_video", "status": "started", "details": {"args": {"action": "play", "query": "bahu kale ki"}}}
+{"timestamp": "2026-05-01 23:02:05", "actor": "garvit", "action": "play", "tool": "youtube_video", "status": "completed", "details": {"result_preview": "Playing: bahu kale ki"}}
+{"timestamp": "2026-05-01 23:02:26", "actor": "garvit", "action": "shutdown_friday", "tool": "shutdown_FriDay", "status": "started", "details": {"args": {}}}
+{"timestamp": "2026-05-01 23:02:26", "actor": "garvit", "action": "shutdown_friday", "tool": "shutdown_FriDay", "status": "completed", "details": {"result_preview": "Done."}}
