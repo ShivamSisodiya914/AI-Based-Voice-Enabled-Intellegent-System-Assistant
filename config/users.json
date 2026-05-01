@@ -1,0 +1,11 @@
+{
+  "admin": {
+    "role": "admin"
+  },
+  "HunterKraken": {
+    "role": "user"
+  },
+  "garvit": {
+    "role": "user"
+  }
+}
