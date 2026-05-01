@@ -1,0 +1,1 @@
+"""FriDay Assistant AI package."""

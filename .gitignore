@@ -1,0 +1,78 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Build / packaging outputs
+build/
+dist/
+*.egg-info/
+*.spec
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+playwright-report/
+test-results/
+
+# Local runtime artifacts
+logs/
+.ipynb_checkpoints/
+.python-version
+
+# Environment and secrets
+.env
+.env.*
+config/api_keys.json
+
+# App-generated data
+memory/long_term.json
+*.log
+*.tmp
+*.bak
+
+# Piper offline TTS assets: ignore all, keep only required runtime/model files
+voice/tts/piper/**
+!voice/tts/piper/
+!voice/tts/piper/piper.exe
+!voice/tts/piper/piper_phonemize.dll
+!voice/tts/piper/espeak-ng.dll
+!voice/tts/piper/onnxruntime.dll
+!voice/tts/piper/onnxruntime_providers_shared.dll
+!voice/tts/piper/libtashkeel_model.ort
+!voice/tts/piper/en_US-danny-low.onnx
+!voice/tts/piper/en_US-danny-low.onnx.json
+!voice/tts/piper/espeak-ng-data/
+!voice/tts/piper/espeak-ng-data/**
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Extra build/temp files
+run_FriDay.py
+run_FriDay.spec
+launcher.py
+launcher.vbs
+launcher.spec
+FriDay.exe
+FriDay.iss
+*.log
+
+.venv/
+__pycache__/
+*.onnx
+models/
